@@ -1,6 +1,8 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
 >  
 
+[![DSMeta](https://raw.githubusercontent.com/marciorbarcellos/dsmeta/af6a81f8c76a352ef7c84b77a7050c8b128685a8/frontend/src/assets/img/SpringReactDSMeta.jpg)
+
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
 
